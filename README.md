@@ -1,8 +1,8 @@
 <H1 align="center">
-FACEBOOK TOOLKIT
+Công cụ thu nhập Facebook
 </H1>
 <H4 align="center">
-a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.</br>
+một công cụ để lấy dữ liệu Facebook, một số bot Facebook và các công cụ bổ sung được tìm thấy trên Facebook Toolkit ++.</br>
 Graph API Facebook.</br>
 </H4>
 <p align="center">
@@ -78,26 +78,6 @@ Made with ❤️ by <a href="https://github.com/warifp">Wahyu Arif Purnomo</a>
 
 ## Version
 
-Version 1.0 :
-
-    https://www.facebook.com/warifp/videos/2340053176234744/
-
-  Changelog :
-
--   Add tools
-
-Version 1.2 :
-
-    https://www.facebook.com/warifp/videos/2339461559627239/
-
-  Changelog :
-
--   Add tools++
-
-Version 1.3 :
-
-    https://www.facebook.com/photo.php?fbid=2340608509512544
-
   Changelog : 
 
 -   re-build with Climate
@@ -110,7 +90,6 @@ Version 1.3 :
 
 Version 1.4 :
 
-    https://www.facebook.com/warifp/videos/2340053176234744/
 
   Changelog :
 
@@ -125,12 +104,6 @@ Version 1.4 :
 -   compress function
 -   display improvements
 -   and other improvements
-
-Version 1.5 :
-
-    https://www.facebook.com/photo.php?fbid=2345150569058338
-
-  Changelog :
 
 -   fix feature
 -   fix library
